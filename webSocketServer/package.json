@@ -11,6 +11,19 @@
   "license": "ISC",
   "dependencies": {
     "http": "0.0.1-security",
-    "websocket": "^1.0.31"
-  }
+    "websocket": "^1.0.32"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RPGi0/web-socket-chat-tut.git"
+  },
+  "keywords": [
+    "websockets",
+    "react",
+    "node.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/RPGi0/web-socket-chat-tut/issues"
+  },
+  "homepage": "https://github.com/RPGi0/web-socket-chat-tut#readme"
 }
